@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="ArchiveFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Archive\</Value>
+    </Setting>
+    <Setting Name="TheText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">text</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

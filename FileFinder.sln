@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FileFinder", "FileFinder\FileFinder.vbproj", "{F6A14AB3-5F2C-4F51-82BB-0124670049AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6A14AB3-5F2C-4F51-82BB-0124670049AB}.Debug|x86.ActiveCfg = Debug|x86
+		{F6A14AB3-5F2C-4F51-82BB-0124670049AB}.Debug|x86.Build.0 = Debug|x86
+		{F6A14AB3-5F2C-4F51-82BB-0124670049AB}.Release|x86.ActiveCfg = Release|x86
+		{F6A14AB3-5F2C-4F51-82BB-0124670049AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
